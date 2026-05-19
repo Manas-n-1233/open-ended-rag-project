@@ -17,13 +17,16 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline
 - Simple RAG workflow
 
 # Folder Structure
+
+```text
 open-ended-rag-project/
 │
 ├── open_ended.ipynb
 ├── hydroponics.txt
 ├── README.md
 ├── requirements.txt
-├── .gitignore
+└── .gitignore
+```
 
 
 # Project Architecture
@@ -38,17 +41,24 @@ Semantic Similarity Search
 Relevant Chunks Retrieved
      ↓
 Response Generation
+```
 
+# Installation
 
-Installation:
+```bash
 git clone https://github.com/your-username/open-ended-rag-project.git
 
 cd open-ended-rag-project
 
 pip install -r requirements.txt
+```
 
-Run:
+# Run
+
+```bash
 jupyter notebook
+```
 
-Author:
+# Author
+
 Manasa N Nayaka
